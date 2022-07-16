@@ -1,7 +1,7 @@
 # Cloneflix-React
 Crie um react app com o comando 
 
-```npx create-react-app nome```
+```npx create-react-app {nome_escolhido}```
 
 Após isso, apague todos os arquivos da pasta "src"
 
