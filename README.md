@@ -9,4 +9,8 @@ Após isso, apague todos os arquivos da pasta "src"
 
 Copie e cole os arquivos baixados dentro da pasta "src"
 
-![Captura de tela_2022-07-16_13-50-52](https://user-images.githubusercontent.com/84055744/179364429-1ccb3451-18c1-4e32-8cc8-818ebaefbaa7.png)
+![Captura de tela_2022-07-16_13-52-10](https://user-images.githubusercontent.com/84055744/179364481-8afca7b7-f10b-4f8c-9149-df0e58ce0651.png)
+
+Abra a pasta do seu React App no VS code, e execute o comando: 
+
+```npm start```
